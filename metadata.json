@@ -1,0 +1,8 @@
+{
+  "name": "Kasi-Nav Township Logistics",
+  "description": "A digital landmark-based navigation and logistics platform designed for townships, featuring community couriers, Spaza shop hubs, and AI-powered safety geofencing.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ]
+}
